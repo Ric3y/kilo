@@ -1,1 +1,1 @@
-echo "kilo" >> .gitignore
+build/
